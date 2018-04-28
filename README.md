@@ -15,3 +15,5 @@ A DE1-SOC board from Altera was used as well
 The LEGO board used to interface with the FPGA was provided for use by the University of Toronto
 
 This project was completed for the ECE243 Computer Organization course offered at UofT. Please do not submit any of this code as your own.
+
+A demo of this project can be found at: https://www.youtube.com/watch?v=mgIZToHeVTM 
