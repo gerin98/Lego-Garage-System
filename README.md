@@ -1,7 +1,7 @@
 # Lego-Garage-System
 ```
-Password authenticated garage system. Setup a password to initialize your security system. TYpe in password correctly when sensors
-are active to open the garage door for 15 seconds. An incorrect password will sound an alarm.
+Password authenticated garage system. Setup a password to initialize your security system. Type in password
+correctly when sensors are active to open the garage door for 15 seconds. An incorrect password will sound an alarm.
 ```
 Garage was built using LEGO motors and sensors
 
